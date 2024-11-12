@@ -1,3 +1,3 @@
-# Bellpi-prueba-data-scientist
+#Prueba-data-scientist
 
-En este repositorio subo los dos retos de la prueba para data scientist
+Analisis y predicción de precio de vivienda con base en diferentes características
